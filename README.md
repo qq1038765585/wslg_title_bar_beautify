@@ -1,4 +1,12 @@
-# WSLG构建：
+# 正在研究:
+1. 根据Windows的light/dark来自适应
+2. 实现全屏通过 F11
+
+---
+# 使用方法：
+https://github.com/microsoft/wslg/blob/main/CONTRIBUTING.md#installing-a-private-version-of-the-wslg-system-distro
+
+# WSLG构建参考：
 https://github.com/microsoft/wslg/blob/main/CONTRIBUTING.md
 
 # WESTON修改参考：
