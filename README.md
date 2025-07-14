@@ -5,6 +5,11 @@ https://github.com/microsoft/wslg/blob/main/CONTRIBUTING.md
 https://github.com/microsoft/weston-mirror/pull/129/files
 https://gitlab.freedesktop.org/wayland/weston/-/merge_requests/1154/diffs#83d3e8a20ce73d7e3822cc354e7ab651d9cce399
 
-# 调整对比：
-![修改前](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/before.png "修改前")
-![修改后](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/after.png "修改后")
+# 原样式：
+![原样式](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/normal.png "原样式")
+
+# Light样式：
+![Light样式](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/light.png "Light样式")
+
+# Dark样式：
+![Dark样式](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/dark.png "Dark样式")
