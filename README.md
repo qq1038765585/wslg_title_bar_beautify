@@ -27,3 +27,6 @@ https://gitlab.freedesktop.org/wayland/weston/-/merge_requests/1154/diffs#83d3e8
 
 # Dark样式：
 ![Dark样式](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/dark_mode.png "Dark样式")
+
+# 大号样式：
+![大号样式](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/big_mode.png "大号样式")
