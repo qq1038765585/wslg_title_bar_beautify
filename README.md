@@ -1,32 +1,32 @@
-# 目前改动:
-1. 使用按钮来切换light/dark模式, WSLG系统发行版是只读系统保存不了状态，系统重启后会恢复light模式
-2. 使用Ctrl + 右键然后拖动调整窗口大小, 因为调整了边框边距，使用上下左右四个角很难调整
-3. 使用Ctrl + F11 全屏
+# Current Changes:
+1. Use the `top left button` to switch between light/dark mode. The WSLG system release is read-only and cannot save the system state. After system restart, the light mode will be restored
+2. Use `Ctrl+right-click` and drag to adjust the window size, as adjusting the border margins makes it difficult to adjust using the top, bottom, left, and right corners
+3. Use `Ctrl+F11` to full screen
 
-4. 对C语言不熟一通胡改可能会有BUG
+4. not familiar with C language and try to modify it, there may be bugs
 
 ---
-# 使用方法：
+# Usage See：
 https://github.com/microsoft/wslg/blob/main/CONTRIBUTING.md#installing-a-private-version-of-the-wslg-system-distro
 
-# WSLG构建参考：
+# WSLG Build See：
 https://github.com/microsoft/wslg/blob/main/CONTRIBUTING.md
 
-# WESTON修改参考：
+# WESTON Change See：
 https://github.com/microsoft/weston-mirror/pull/129/files
 https://gitlab.freedesktop.org/wayland/weston/-/merge_requests/1154/diffs#83d3e8a20ce73d7e3822cc354e7ab651d9cce399
 
-# 我的版本：
-![我的版本](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/version.png "我的版本")
+# My Version Info：
+![My Version Info](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/version.png "My Version Info")
 
-# 原样式：
-![原样式](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/normal.png "原样式")
+# Original style：
+![Original style](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/normal.png "Original style")
 
-# Light样式：
-![样式切换](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/mode_switch.png "样式切换")
+# New Light Style：
+![Light Style](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/mode_switch.png "Light Style")
 
-# Dark样式：
-![Dark样式](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/dark_mode.png "Dark样式")
+# New Dark Style：
+![Dark Style](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/dark_mode.png "Dark Style")
 
-# 大号样式：
-![大号样式](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/big_mode.png "大号样式")
+# Big Bar Style：
+![Big Bar Style](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/big_mode.png "Big Bar Style")
