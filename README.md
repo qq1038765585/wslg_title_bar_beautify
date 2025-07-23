@@ -5,12 +5,9 @@
 
 4. not familiar with C language and try to modify it, there may be bugs
 
----
 # Usage See：
-download my build system distro: https://github.com/qq1038765585/wslg_title_bar_beautify/releases
----
-change .wslconfig see：https://github.com/microsoft/wslg/blob/main/CONTRIBUTING.md#installing-a-private-version-of-the-wslg-system-distro
----
+https://github.com/qq1038765585/wslg_title_bar_beautify/releases (download my build system distro)  
+https://github.com/microsoft/wslg/blob/main/CONTRIBUTING.md#installing-a-private-version-of-the-wslg-system-distro
 
 # WSLG Build See：
 https://github.com/microsoft/wslg/blob/main/CONTRIBUTING.md
