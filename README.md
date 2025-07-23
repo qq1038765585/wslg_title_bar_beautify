@@ -7,7 +7,10 @@
 
 ---
 # Usage See：
-https://github.com/microsoft/wslg/blob/main/CONTRIBUTING.md#installing-a-private-version-of-the-wslg-system-distro
+download my build system distro: https://github.com/qq1038765585/wslg_title_bar_beautify/releases
+---
+change .wslconfig see：https://github.com/microsoft/wslg/blob/main/CONTRIBUTING.md#installing-a-private-version-of-the-wslg-system-distro
+---
 
 # WSLG Build See：
 https://github.com/microsoft/wslg/blob/main/CONTRIBUTING.md
