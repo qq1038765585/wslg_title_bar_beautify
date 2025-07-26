@@ -1,7 +1,7 @@
 # Current Changes:
 1. Use the `top left button` to switch between light/dark mode. The WSLG system release is read-only and cannot save the system state. After system restart, the light mode will be restored
 
-2. Use `Ctrl+right-click` and drag to adjust the window size, as adjusting the border margins makes it difficult to adjust using the top, bottom, left, and right corners
+2. Use `Ctrl+right-click` and drag to adjust the window size
 
 3. Use `Ctrl+left-click` and drag to move the window location
 
