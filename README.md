@@ -39,3 +39,6 @@ https://gitlab.freedesktop.org/wayland/weston/-/merge_requests/1154/diffs#83d3e8
 
 # Fullscreen Enhance：
 ![Fullscreen Enhance](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/fullscreen.gif "Fullscreen Enhance")
+
+# No Title Bar Enhance：
+![No Title Bar Enhance](https://github.com/qq1038765585/wslg_title_bar_beautify/blob/main/no_title_bar_mode.png "No Title Bar Enhance")
