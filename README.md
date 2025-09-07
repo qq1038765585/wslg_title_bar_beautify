@@ -1,13 +1,15 @@
 # Current Changes:
-1. Use the `top left button` to switch between light/dark mode. The WSLG system release is read-only and cannot save the system state. After system restart, the light mode will be restored
+1. `provide a compiled version of Weston 14, please check the release`
 
-2. Use `Alt+right-click` and drag to adjust the window size
+2. Use the `top left button` to switch between light/dark mode. The WSLG system release is read-only and cannot save the system state. After system restart, the light mode will be restored
 
-3. Use `Alt+left-click` and drag to move the window location
+3. Use `Alt+right-click` and drag to adjust the window size
 
-4. Use `Alt+F11` to full screen
+4. Use `Alt+left-click` and drag to move the window location
 
-5. not familiar with C language and try to modify it, there may be bugs
+5. Use `Alt+F11` to full screen
+
+6. not familiar with C language and try to modify it, there may be bugs
 
 # Usage See：
 https://github.com/qq1038765585/wslg_title_bar_beautify/releases (download my build system distro)  
